@@ -5,7 +5,7 @@
 - 🌱 **I’m currently learning** advanced React Native features, performance optimization, and backend integrations.  
 - 💡 **I enjoy working on** innovative projects that enhance user experience and solve real-world problems.  
 - 💞️ **I’m looking to collaborate on** open-source projects and mobile app development.  
-- 📫 **How to reach me:** rajak9330@gmail.com | https://www.linkedin.com/in/rajakumar9330/ |   
+- 📫 **How to reach me:** rajak9330@gmail.com |https://www.linkedin.com/in/rajakumar007/ |   
 
 💻 Let's connect and build something amazing together!  
 
